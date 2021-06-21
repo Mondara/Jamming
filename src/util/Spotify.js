@@ -2,7 +2,7 @@
 let accessToken;
 
 const clientID = '71a5ec5a6631470b95b8f229adcd78d3';
-const redirectUrl = 'http://localhost:3000/';
+const redirectUrl = 'http://Jamming-ReactApp.surge.sh';
 
 const Spotify = {
     getAccessToken() {
@@ -16,7 +16,7 @@ const Spotify = {
         if(accessTokenMatch && expireTokenMatch) {
             accessToken = accessTokenMatch[1];
             const expiresIn = Number(expireTokenMatch[1]);
-            accessToken = accessToken.replace('=', '');
+            //accessToken = accessToken.replace('=', '');
 
             // Clear the parameteters, allowing us to grap new access token when it expires
             window.setTimeout(() => accessToken = '', expiresIn * 1000);
