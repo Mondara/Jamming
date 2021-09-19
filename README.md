@@ -16,7 +16,6 @@ This is a project built as part of the Font End Development Career Path on Codea
 ## Overview
 
 This website allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
-Deploy using yarn or npm start
 
 ### Screenshot
 
