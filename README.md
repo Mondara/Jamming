@@ -20,7 +20,7 @@ Deploy using yarn or npm start
 
 ### Screenshot
 
-![](./Jamming Screenshot.png) 
+![](./Jamming-Screenshot.png) 
 
 ### Links
 
