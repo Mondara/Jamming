@@ -1,11 +1,11 @@
 # Codeacdemy - Jamming
 
-This is a project built as part of the Font End Development Career Path on Codeacdemy
+This is a project built as part of the Codecademy's Front End Engineer Course.
+The website allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -14,9 +14,6 @@ This is a project built as part of the Font End Development Career Path on Codea
 - [Author](#author)
 
 ## Overview
-
-This website allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
-
 ### Screenshot
 
 ![](./Jamming-Screenshot.png) 
