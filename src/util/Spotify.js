@@ -1,7 +1,7 @@
 let accessToken;
 
 const clientID = process.env.REACT_APP_API_KEY;
-const redirectUrl = 'http://localhost:3000/';
+const redirectUrl = 'https://jamming-mt.netlify.app/';
 
 console.log(clientID)
 
