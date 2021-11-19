@@ -1,7 +1,8 @@
+require('dotenv').config()
 
 let accessToken;
 
-const clientID = '71a5ec5a6631470b95b8f229adcd78d3';
+const clientID = process.env.API_KEY;
 const redirectUrl = 'http://Jamming-ReactApp.surge.sh';
 
 const Spotify = {
