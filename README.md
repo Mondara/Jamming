@@ -20,7 +20,7 @@ The website allows users to search the Spotify library, create a custom playlist
 
 ### Links
 
-- Live Site URL:(https://jamming-reactapp.surge.sh/)
+- Live Site URL:(https://jamming-mt.netlify.app/
 
 ## My process
 
@@ -36,6 +36,7 @@ And how to Read Api documents.
 
 ## Author
 
-- Github - [Mondara](https://github.com/Mondara)
-- Linkedin - [Mondara](https://www.linkedin.com/in/mondara-thotage/)
+- Website - [Mondara](https://mondarathotage.com/)
+- Linkedin - [@Mondara](https://www.linkedin.com/in/mondara-thotage/)
+- Github - [@Mondara](https://github.com/Mondara)
 
